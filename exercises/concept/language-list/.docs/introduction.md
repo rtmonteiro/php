@@ -29,7 +29,7 @@ $prime_numbers = [1, 3, 5, 7, 11, 12];
 
 $prime_numbers[5] = 13; // replace 12 with 13
 
-$prime_numbers[] = 17; // array now contains [1, 3, 5, 7, 11, 13, 17]
+$prime_numbers[] = 17; // array now contains [1, 3, 5, 7, 11, 12, 17]
 ```
 
 ## Variable-Length Arguments
